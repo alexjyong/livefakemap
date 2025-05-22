@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+     width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve"><circle fill="#1b402a" cx="51" cy="52" r="41.5"/>
+    <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="49.9995" y1="8.5" x2="49.9995" y2="91.5005"><stop  offset="0" style="stop-color:#2CA05A"/>
+        <stop offset="1" style="stop-color:#1b402a"/></linearGradient>
+    <circle fill="url(#SVGID_1_)" cx="50" cy="50" r="41.5"/>
+    </svg>
