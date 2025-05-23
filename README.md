@@ -7,3 +7,5 @@ To run:
 Install packages with `npm install`
 
 Run `npm run dev`
+
+Go to the address the output gives you, and make your maps!
